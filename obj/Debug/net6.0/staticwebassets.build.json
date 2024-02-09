@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d5sIJqmC0lzvwqSSxcFrvsPvIZ1Ttn/9g066ADEHvJc=",
+  "Source": "JwtRoleBase",
+  "BasePath": "_content/JwtRoleBase",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
